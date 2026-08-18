@@ -1,0 +1,18 @@
+# KiCad generated / temporary files
+**-backups/
+**-backups/**
+*.lck
+*.kicad_prl
+*.kicad_pro-bak
+*.kicad_sch-bak
+*.kicad_pcb-bak
+fp-info-cache
+*.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/

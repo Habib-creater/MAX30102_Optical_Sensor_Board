@@ -1,0 +1,12 @@
+Reference,Qty,Value,DNP,Exclude from BOM,Footprint,Datasheet,Manufacturer,Manufacturer part no,Supplier,Supplier Part no,supplier link
+"C1,C2",2,10u,,,Capacitor_SMD:C_0603_1608Metric,~,,,,,
+C3,1,1u,,,Capacitor_SMD:C_0603_1608Metric,~,,,,,
+C4,1,2.2u,,,Capacitor_SMD:C_0603_1608Metric,~,,,,,
+"C5,C6",2,0.1u,,,Capacitor_SMD:C_0603_1608Metric,~,,,,,
+D1,1,SMAJ5.0A,,,Diode_SMD:D_0603_1608Metric_Pad1.05x0.95mm_HandSolder,https://www.littelfuse.com/media?resourcetype=datasheets&itemid=75e32973-b177-4ee3-a0ff-cedaf1abdb93&filename=smaj-datasheet,,,,,
+"H1,H2,H3,H4",4,MountingHole_Pad,,Excluded from BOM,MountingHole:MountingHole_2.2mm_M2_Pad_Via,~,,,,,
+J1,1,Conn_01x05_Pin,,,Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical,~,,,,,
+"R1,R2,R3",3,4.7K,,,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,~,,,,,
+U1,1,AP2112K-3.3,,,Package_TO_SOT_SMD:SOT-23-5,https://www.diodes.com/assets/Datasheets/AP2112.pdf,,,,,
+U2,1,TLV70018_SOT23-5,,,Package_TO_SOT_SMD:SOT-23-5,http://www.ti.com/lit/ds/symlink/tlv700.pdf,,,,,
+U3,1,MAX30102,,,OptoDevice:Maxim_OLGA-14_3.3x5.6mm_P0.8mm,https://datasheets.maximintegrated.com/en/ds/MAX30102.pdf,,,,,
