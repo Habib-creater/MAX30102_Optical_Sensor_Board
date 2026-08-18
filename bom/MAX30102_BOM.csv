@@ -1,12 +1,12 @@
-Reference,Qty,Value,DNP,Exclude from BOM,Footprint,Datasheet,Manufacturer,Manufacturer part no,Supplier,Supplier Part no,supplier link
-"C1,C2",2,10u,,,Capacitor_SMD:C_0603_1608Metric,~,,,,,
-C3,1,1u,,,Capacitor_SMD:C_0603_1608Metric,~,,,,,
-C4,1,2.2u,,,Capacitor_SMD:C_0603_1608Metric,~,,,,,
-"C5,C6",2,0.1u,,,Capacitor_SMD:C_0603_1608Metric,~,,,,,
-D1,1,SMAJ5.0A,,,Diode_SMD:D_0603_1608Metric_Pad1.05x0.95mm_HandSolder,https://www.littelfuse.com/media?resourcetype=datasheets&itemid=75e32973-b177-4ee3-a0ff-cedaf1abdb93&filename=smaj-datasheet,,,,,
-"H1,H2,H3,H4",4,MountingHole_Pad,,Excluded from BOM,MountingHole:MountingHole_2.2mm_M2_Pad_Via,~,,,,,
-J1,1,Conn_01x05_Pin,,,Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical,~,,,,,
-"R1,R2,R3",3,4.7K,,,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,~,,,,,
-U1,1,AP2112K-3.3,,,Package_TO_SOT_SMD:SOT-23-5,https://www.diodes.com/assets/Datasheets/AP2112.pdf,,,,,
-U2,1,TLV70018_SOT23-5,,,Package_TO_SOT_SMD:SOT-23-5,http://www.ti.com/lit/ds/symlink/tlv700.pdf,,,,,
-U3,1,MAX30102,,,OptoDevice:Maxim_OLGA-14_3.3x5.6mm_P0.8mm,https://datasheets.maximintegrated.com/en/ds/MAX30102.pdf,,,,,
+Reference,Qty,Value,DNP,Exclude from BOM,Footprint,Manufacturer,Manufacturer part no,Supplier,Supplier Part no,supplier link
+"C1,C2",2,10u,,,Capacitor_SMD:C_0603_1608Metric,Samsung Electro-Mechanics,CL10X106MO8NRWC,DigiKey ,1276-CL10X106MO8NRWCCT-ND,https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL10X106MO8NRWC/27519542?s=N4IgjCBcoLQExVAYygFwE4FcCmAaEA9lANogCsIAugL74wTQgqQBmAhgDYDOehJ4cAOwA2KtVogEkUmAAMmAASzhsgMwKwwgGpigA
+C3,1,1u,,,Capacitor_SMD:C_0603_1608Metric,TDK,CGA3E1X7R1C105K080DC,DigiKey ,445-CGA3E1X7R1C105K080DCCT-ND,https://www.digikey.com/en/products/detail/tdk/CGA3E1X7R1C105K080DC/22106147
+C4,1,2.2u,,,Capacitor_SMD:C_0603_1608Metric,Samsung Electro-Mechanics,CL10B225KP8NFNC,DigiKey ,1276-2016-1-ND,https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL10B225KP8NFNC/3887674?s=N4IgjCBcpgLFoDGUBmBDANgZwKYBoQB7KAbRAHZYBWMKkAXQIAcAXKEAZRYCcBLAOwDmIAL4EwANgQhkkdNnxFSIAMwBOAEywpjEK3Zc%2BQ0ePLTZ83AWKQysDVtoNmbSJx4DhYkBoAMsNXNUTCslWx8AOg0AAgBWgDFnPVcQAFV%2BXhYAeRQAWRw0LABXbhwTEABaDSDIHiLFGzI6em8KiGgZYIVrZTANch0Rb2rwjSii6N8JXxUGESA
+"C5,C6",2,0.1u,,,Capacitor_SMD:C_0603_1608Metric,Samsung Electro-Mechanics,CL10B104KO8NNNC,DigiKey ,1276-1005-1-ND,https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL10B104KO8NNNC/3886663
+D1,1,SMAJ5.0A,,,Diode_SMD:D_0603_1608Metric_Pad1.05x0.95mm_HandSolder,KYOCERA AVX,GG0603052R542P,DigiKey ,478-GG0603052R542PCT-ND,https://www.digikey.com/en/products/detail/kyocera-avx/GG0603052R542P/14552136?s=N4IgjCBcpgbFoDGUBmBDANgZwKYBoQB7KAbRAGYBOAJgBZ4BdAgBwBcoQBlVgJwEsAdgHMQAXwIB2WBGghkkdNnxFSIOpTASITEGw7d%2BwsQTDUNCOaky4CANwFReAV2XFIZKnQCsIHXshcvIIi4uAS5OQW8oo2Ku5q1NTktJS%2BLOwBBsHGIAC01FGOPC4EbmQ%2BDKJVQA
+"H1,H2,H3,H4",4,MountingHole_Pad,,Excluded from BOM,MountingHole:MountingHole_2.2mm_M2_Pad_Via,,,,,
+J1,1,Conn_01x05_Pin,,,Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical,Samtec Inc.,TS-105-G-A,DigiKey ,612-TS-105-G-A-ND,https://www.digikey.com/en/products/detail/samtec-inc/TS-105-G-A/1105457
+"R1,R2,R3",3,4.7K,,,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,YAGEO,RC0603FR-074K7L,DigiKey ,311-4.70KHRCT-ND,https://www.digikey.com/en/products/detail/yageo/RC0603FR-074K7L/727212
+U1,1,AP2112K-3.3,,,Package_TO_SOT_SMD:SOT-23-5,Diodes Incorporated,AP2112K-3.3TRG1,DigiKey ,AP2112K-3.3TRG1DICT-ND,https://www.digikey.com/en/products/detail/diodes-incorporated/AP2112K-3-3TRG1/4470746?s=N4IgTCBcDaIIIAUwEZlgNIFoDMA6bIAugL5A
+U2,1,TLV70018_SOT23-5,,,Package_TO_SOT_SMD:SOT-23-5,Texas Instruments,TLV70018DDCR,DigiKey ,296-32410-1-ND,https://www.digikey.com/en/products/detail/texas-instruments/TLV70018DDCR/2232568
+U3,1,MAX30102,,,OptoDevice:Maxim_OLGA-14_3.3x5.6mm_P0.8mm,Analog Devices Inc./Maxim Integrated,MAX30102EFD+T,DigiKey ,MAX30102EFD+TCT-ND,https://www.digikey.com/en/products/detail/analog-devices-inc-maxim-integrated/MAX30102EFD-T/6188734
