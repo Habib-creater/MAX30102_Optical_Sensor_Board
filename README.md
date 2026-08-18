@@ -116,8 +116,8 @@ The sensor interface exposes:
 - I²C clock — SCL
 - I²C data — SDA
 - Interrupt — INT
-- Sensor supply — +3.3 V
-- LED supply — +1.8 V
+- Sensor supply — +1.8 V
+- LED supply — +3.3V V
 
 ### Power Architecture
 
